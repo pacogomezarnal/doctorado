@@ -1,0 +1,101 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"95M1zlW0txkV42I4OG1Zscxrg5A/CUE0NeJWAUTQg-uvfI-INeYk7dg\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"95M1zlW0txkV42I4OG1Zscxrg5A/W84_-ZUzjxfq11V9yGxiiDMjUQI\"",
+   "id": "1cjFposQiHg",
+   "snippet": {
+    "publishedAt": "2016-05-29T12:00:08.000Z",
+    "channelId": "UCy6cu2GUe08kPUfRwuJMONg",
+    "title": "Top 8 Increíbles Robots Más Avanzados Del Mundo",
+    "description": "En este Video Hablaremos sobre Los  8 Increíbles Robots Más Avanzados Del Mundo Reales desde Robots Autonomos hasta Robots Animales que sin duda Seran Los Robots Del Futuro\n\nVisitanos en Nuestra Página web : http://gstechnology.org\n\n▶¿Quieres salir en el próximo vídeo?\nSolo tienes que compartir  este vídeo desde nuestra página de Facebook y comentar qué tema te gustaría que sea el próximo vídeo.\n\n▶¿Quieres contactarme, proponerme algo, o alguna otra cosa importante?\nCorreo: gstechnology.contacto@gmail.com (solo asuntos serios)\n\n▶Suscríbete: https://www.youtube.com/c/gstechtops?sub_confirmation=1\n\nAunque el progreso de la robótica no se ha producido con la rapidez que se presentaba en las peliculas, ni en las direcciones que entonces parecían las más obvias, ya no hay duda que los robóts han llegado para quedarse. \n\nSuscribete a mi canal Hermano:\nhttps://www.youtube.com/t3techtops?sub_confirmation=1\n\nSíguenos en nuestras redes sociales:\n Youtube :    https://www.youtube.com/c/GStechTops\n Twitter:       https://twitter.com/GStechYT\n Facebook:  https://www.facebook.com/GStechYT\n Instagram: https://www.instagram.com/GStechYT/\n Google+:    https://plus.google.com/+GStechTops\n--------------------------------------------------------------------------------\nGsTech Gstechnology robots del futuro robots  futuristas robots reales inventos futuristas robots del futuro inventos que no sabias que existian inventos que cambiaran el mundo inventos que cambiaron el mundo avances tecnologicos 2016 celular curvo smartphone del futuro ropa inteligente",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1cjFposQiHg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1cjFposQiHg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1cjFposQiHg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/1cjFposQiHg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/1cjFposQiHg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "GStech",
+    "tags": [
+     "Gstech",
+     "Gstechnology",
+     "avances",
+     "tecnologicos",
+     "cientificos",
+     "Best",
+     "Favorite",
+     "Robot (Toy Type)",
+     "Computer",
+     "atlas",
+     "asimo",
+     "amazing",
+     "top",
+     "top robots",
+     "robots del futuro",
+     "Robots Más Avanzados Del Mundo",
+     "ROBOTS HUMANOIDES",
+     "robots reales",
+     "robots militares",
+     "robot policia",
+     "robots futuristas",
+     "inteligencia artificial",
+     "iron man real",
+     "robobee",
+     "robots del futuro reales",
+     "robots automatas",
+     "androides reales",
+     "humanoides",
+     "cybord",
+     "robot humano",
+     "technologic",
+     "robots 2016",
+     "robots 2017",
+     "robot casero"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "es-419",
+    "localized": {
+     "title": "Top 8 Increíbles Robots Más Avanzados Del Mundo",
+     "description": "En este Video Hablaremos sobre Los  8 Increíbles Robots Más Avanzados Del Mundo Reales desde Robots Autonomos hasta Robots Animales que sin duda Seran Los Robots Del Futuro\n\nVisitanos en Nuestra Página web : http://gstechnology.org\n\n▶¿Quieres salir en el próximo vídeo?\nSolo tienes que compartir  este vídeo desde nuestra página de Facebook y comentar qué tema te gustaría que sea el próximo vídeo.\n\n▶¿Quieres contactarme, proponerme algo, o alguna otra cosa importante?\nCorreo: gstechnology.contacto@gmail.com (solo asuntos serios)\n\n▶Suscríbete: https://www.youtube.com/c/gstechtops?sub_confirmation=1\n\nAunque el progreso de la robótica no se ha producido con la rapidez que se presentaba en las peliculas, ni en las direcciones que entonces parecían las más obvias, ya no hay duda que los robóts han llegado para quedarse. \n\nSuscribete a mi canal Hermano:\nhttps://www.youtube.com/t3techtops?sub_confirmation=1\n\nSíguenos en nuestras redes sociales:\n Youtube :    https://www.youtube.com/c/GStechTops\n Twitter:       https://twitter.com/GStechYT\n Facebook:  https://www.facebook.com/GStechYT\n Instagram: https://www.instagram.com/GStechYT/\n Google+:    https://plus.google.com/+GStechTops\n--------------------------------------------------------------------------------\nGsTech Gstechnology robots del futuro robots  futuristas robots reales inventos futuristas robots del futuro inventos que no sabias que existian inventos que cambiaran el mundo inventos que cambiaron el mundo avances tecnologicos 2016 celular curvo smartphone del futuro ropa inteligente"
+    },
+    "defaultAudioLanguage": "es"
+   },
+   "contentDetails": {
+    "duration": "PT14M15S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "false",
+    "licensedContent": true,
+    "projection": "rectangular"
+   }
+  }
+ ]
+}
