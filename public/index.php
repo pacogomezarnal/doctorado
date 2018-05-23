@@ -19,8 +19,8 @@ try {
   // Call the search.list method to retrieve results matching the specified
   // query term.
   $searchResponse = $youtube->search->listSearch('id,snippet', array(
-    'q' => 'robots',
-    'maxResults' => '20',
+    'q' => 'programacion',
+    'maxResults' => '30',
   ));
 
   $videos = '';
